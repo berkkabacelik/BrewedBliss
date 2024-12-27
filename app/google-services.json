@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "697041794722",
+    "project_id": "brewed-bliss",
+    "storage_bucket": "brewed-bliss.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:697041794722:android:067100536552632f9149fb",
+        "android_client_info": {
+          "package_name": "com.example.brewedbliss"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAuYZ1GctGIMv7UuesrbWJAebYzownT-2Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
